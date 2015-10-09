@@ -3,7 +3,4 @@
 
 def meal_choice(meal = "meat")
   meal
-  puts meal
 end
-
-meal_choice("chicken")
